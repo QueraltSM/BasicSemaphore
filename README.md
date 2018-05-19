@@ -1,4 +1,4 @@
-<h1>Basic Semaphore</h1>
+<h1>Basic use of a RGB led</h1>
 Using Tinkercad. Arduino Uno <br>
 <br>
 
